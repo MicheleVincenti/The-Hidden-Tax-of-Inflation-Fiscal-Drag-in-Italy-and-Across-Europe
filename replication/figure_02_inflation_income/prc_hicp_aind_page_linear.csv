@@ -1,0 +1,7 @@
+DATAFLOW,LAST UPDATE,freq,unit,coicop,geo,TIME_PERIOD,OBS_VALUE,OBS_FLAG,CONF_STATUS
+ESTAT:PRC_HICP_AIND(1.0),06/02/26 23:00:00,Annual,Annual average rate of change,All-items HICP,Italy,2020,-0.1,,
+ESTAT:PRC_HICP_AIND(1.0),06/02/26 23:00:00,Annual,Annual average rate of change,All-items HICP,Italy,2021,1.9,,
+ESTAT:PRC_HICP_AIND(1.0),06/02/26 23:00:00,Annual,Annual average rate of change,All-items HICP,Italy,2022,8.7,,
+ESTAT:PRC_HICP_AIND(1.0),06/02/26 23:00:00,Annual,Annual average rate of change,All-items HICP,Italy,2023,5.9,,
+ESTAT:PRC_HICP_AIND(1.0),06/02/26 23:00:00,Annual,Annual average rate of change,All-items HICP,Italy,2024,1.1,,
+ESTAT:PRC_HICP_AIND(1.0),06/02/26 23:00:00,Annual,Annual average rate of change,All-items HICP,Italy,2025,1.7,,
