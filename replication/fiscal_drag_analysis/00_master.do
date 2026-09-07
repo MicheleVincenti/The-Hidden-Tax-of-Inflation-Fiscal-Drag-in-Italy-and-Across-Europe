@@ -36,5 +36,5 @@ do "05_fiscal_drag_marginale.do"
 do "06_simulazione_proposta.do"
 
 di as result "=============================================================="
-di as result "FISCAL DRAG REPLICATION PIPELINE — COMPLETED"
+di as result "FISCAL DRAG REPLICATION PIPELINE — COMPLETED" 
 di as result "=============================================================="
