@@ -1,14 +1,14 @@
 /*==============================================================================
 SCRIPT 1 di 4 — DOWNLOAD E IMPORT DATI MEF (Dipartimento delle Finanze)
 ==============================================================================
-Tesi: Calcolo del Fiscal Drag in Italia (2012-2024)
+Tesi: Calcolo del Fiscal Drag in Italia (2020 - 2024)
 Fonte: MEF - Dipartimento delle Finanze, Open Data Dichiarazioni IRPEF
        https://www1.finanze.gov.it/finanze/analisi_stat/public/index.php?opendata=yes
        Classificazione: "Classi di reddito e Classi di Età"
        Tematica: "Calcolo dell'IRPEF"
 
 Questo script:
-1. Scarica i CSV MEF per ogni anno d'imposta (2012-2024) -- file
+1. Scarica i CSV MEF per ogni anno d'imposta (2020-2024) -- file
    "cla_anno_calcolo_irpef_AAAA.csv"
 2. Pulisce la formattazione numerica italiana (punto = separatore migliaia)
 3. Rinomina le variabili in modo analitico
