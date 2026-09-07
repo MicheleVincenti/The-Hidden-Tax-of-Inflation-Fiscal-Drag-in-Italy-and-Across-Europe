@@ -26,6 +26,7 @@ do "02_pulizia_merge.do"
 do "03_calcolo_fiscal_drag.do"
 do "04_aggregazione_output_tesi.do"
 do "05_fiscal_drag_marginale.do"
+do "06_simulazione_proposta.do"
 
 di as result "=============================================================="
 di as result "PIPELINE COMPLETATA"
